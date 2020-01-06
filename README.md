@@ -1,5 +1,5 @@
 <h2><span style="background-color: #ffffff; color: #ff0000;"><strong>Save Lifes Now</strong></span></h2>
-<p><span style="background-color: #ffffff; color: #ff0000;"><strong><img src="http://keepis.com.br/app/savelifesnow.png" width="882" height="415" /></strong></span></p>
+<p><span style="background-color: #ffffff; color: #ff0000;"><strong><img src="http://keepis.com.br/app/savelifesnow.png" width="100%" height="100%" /></strong></span></p>
 <p style="text-align: justify;"><strong>Have you ever thought that we don't know what to do in an emergency situation? </strong></p>
 <p style="text-align: justify;">We don't know if we call the emergency first, or help the person, or if we signal the location, and we don't often know first aid needs to be done.</p>
 <p style="text-align: justify;"><strong>The Save Lifes Now app will work with machine learning, analyzing the scene, and telling the person the best way to handle the situation. For example: </strong></p>
