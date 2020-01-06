@@ -1,5 +1,5 @@
 <h2><span style="background-color: #ffffff; color: #ff0000;"><strong>Save Lifes Now</strong></span></h2>
-<p><img src="http://keepis.com.br/app/savelifesnow.png" alt="Save Lifes Now AndroidDevChallenge" style="width: 100%;max-height: 100%" /></p>
+<p><img style="width: 100%; max-height: 100%;" src="http://keepis.com.br/app/savelifesnow.png" alt="Save Lifes Now AndroidDevChallenge" /></p>
 <p style="text-align: justify;"><strong>Have you ever thought that we don't know what to do in an emergency situation? </strong></p>
 <p style="text-align: justify;">We don't know if we call the emergency first, or help the person, or if we signal the location, and we don't often know first aid needs to be done.</p>
 <p style="text-align: justify;"><strong>The Save Lifes Now app will work with machine learning, analyzing the scene, and telling the person the best way to handle the situation. For example: </strong></p>
@@ -12,6 +12,7 @@
 <li style="text-align: justify;">And anothers situations...</li>
 </ul>
 <p style="text-align: justify;">We need an APP like that, because at the time of emergency we don't remember anything, and the phone is in our lives, and there's nothing like it yet.</p>
+<p><img style="width: 100%; max-height: 100%;" src="http://keepis.com.br/app/savelifesnow2.png" alt="Save Lifes Now AndroidDevChallenge" /></p>
 <p style="text-align: justify;">The project will be divided into three stages.</p>
 <ol>
 <li style="text-align: justify;">Brienfing: Talk to teams of first responders, and see what key issues they need to solve, and decide all possible situations that machine learning can work.</li>
